@@ -130,5 +130,5 @@ Accuracy: 87.88%
 
 ## Conclusion
 - KNN achieved **68% accuracy**, indicating possible errors in methodology or hyperparameter tuning.
-- SVM outperformed KNN with **88% accuracy**, suggesting it is a more reliable model for this dataset.
+- SVM outperformed KNN with an **88% accuracy**, suggesting it is a more reliable model for this dataset.
 - Further improvements can be made by experimenting with different kernel functions and feature engineering.
