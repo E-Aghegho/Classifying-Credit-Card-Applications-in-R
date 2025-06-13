@@ -1,7 +1,7 @@
 # Credit Card Fraud Detection Using KNN & SVM
 
 ## Overview
-This project explores the classification of credit card transactions using k-Nearest Neighbors (KNN) and Support Vector Machines (SVM). The dataset used is `credit_card_data-headers.txt` and cross-validation techniques were applied to optimize model performance.
+This project explores the classification of credit card transactions using k-Nearest Neighbors (KNN) and Support Vector Machines (SVM). The dataset used is `credit_card_data-headers.txt` and cross-validation techniques were applied to optimise model performance.
 
 ## Data Preparation
 - The dataset was split into training (80%) and test (20%) sets.
